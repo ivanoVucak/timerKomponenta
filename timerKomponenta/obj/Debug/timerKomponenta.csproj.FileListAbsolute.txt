@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\bin\Debug\timerKomponenta.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\bin\Debug\timerKomponenta.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\bin\Debug\timerKomponenta.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\timerKomponenta\obj\Debug\timerKomponenta.pdb
